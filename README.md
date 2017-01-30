@@ -23,6 +23,6 @@ For one of the scenarios, a constraint of 80% inspectors were placed on the firs
 
 Results
 
-alt tag
+![results](https://cloud.githubusercontent.com/assets/11237613/22426247/9a28ba28-e6cc-11e6-8ddc-a3ab4de75c86.PNG)
 
 The results show that categories at the tails of the distribution are the most important categories for assigning inspectors. If the inspectors for each category are assigned appropriately, the Department of Buildings can reach the objective of inspecting all complaints with an average of 40 days for the month.
